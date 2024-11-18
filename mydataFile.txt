@@ -1,0 +1,3 @@
+WIFI:T:WPA;P:Jashan#450;S:NETPLUS 5G;H:false;
+WIFI:T:WPA;P:Guri@1376;S:Kamboj 5G;H:false;
+WIFI:T:WPA;P:123123123;S:OPPO A15s;H:false;
